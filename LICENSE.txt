@@ -1,0 +1,22 @@
+END USER LICENSE AGREEMENT (EULA)
+Software Name: State of Command Editor
+Copyright: © 2026 LAYTH ISSAM EL-ZAIM. All Rights Reserved.
+1. LICENSE GRANT
+This software is licensed, not sold. Subject to your compliance with this Agreement, the Author grants you a non-exclusive, non-transferable, non-sublicensable license to download, install, and use this tool solely for personal use in connection with [Insert Your Game Name].
+2. RESTRICTIONS
+You may not:
+Redistribute: You may not upload, host, or mirror this software on any other website, server, or platform.
+Sell: You may not sell, rent, lease, or charge any fee for the use or distribution of this software.
+Reverse Engineer: You may not attempt to decompile, disassemble, or derive the source code of this software.
+Modify: You may not create derivative versions of the software binaries themselves.
+3. USER-GENERATED DATA (MAPS)
+Notwithstanding the restrictions in Section 2, you are encouraged to create and share your own data files (e.g., Map Data, Level Files) created with this tool.
+You retain ownership of the specific data you create.
+You are permitted to distribute these data files freely to other users.
+Condition: You may not bundle the software (the tool itself) with your data files. You must direct users to the official source to download the tool.
+4. OWNERSHIP
+The Author retains all right, title, and interest in and to the software, including all copyrights and intellectual property rights. Any rights not expressly granted herein are reserved by the Author.
+5. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms.
+6. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF THE USE OR DEALINGS IN THE SOFTWARE.
