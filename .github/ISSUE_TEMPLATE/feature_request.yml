@@ -1,0 +1,67 @@
+name: Feature Suggestion
+description: Suggest a new feature or improvement for the State of Command Editor
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an idea! Please fill out the sections below to help us understand what you'd like to see
+
+        Before submitting, please search [existing issues](https://github.com/YoungLionIV/State-of-Command-Editor/issues?q=is%3Aissue) to see if someone has already suggested this
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: A short, one or two sentence description of the feature
+      placeholder: Add a "..." that lets "..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Solution
+      description: Describe how you'd like the feature to work, Include details about UI, behavior, or workflow if relevant
+    validations:
+      required: true
+
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Mockups / Examples
+      description: Drag and drop any sketches, screenshots, or references from other tools that illustrate your idea (optional)
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How important is this to you? (optional)
+      options:
+        - Nice to have
+        - Would significantly improve something
+        - Blocking important stuff
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Anything else we should know about this suggestion (optional)
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmations
+      options:
+        - label: I have searched existing issues and this is not a duplicate
+          required: true
+        - label: I understand that feature requests are suggestions and may not be implemented immediately or at all
+          required: true
+        - label: I have checked if this feature already exists
+          required: true

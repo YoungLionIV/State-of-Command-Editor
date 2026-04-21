@@ -1,0 +1,97 @@
+name: Bug Report
+description: Report a bug or crash in the State of Command Editor
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the sections below so we can fix the issue as quickly as possible
+
+        Before submitting, please:
+        - Make sure you are running the [latest release](https://github.com/YoungLionIV/State-of-Command-Editor/releases/latest)
+        - Search [existing issues](https://github.com/YoungLionIV/State-of-Command-Editor/issues?q=is%3Aissue) to avoid duplicates
+
+  - type: input
+    id: editor-version
+    attributes:
+      label: Editor Version
+      description: Which version of the editor are you running?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System
+      options:
+        - Windows 11
+        - Windows 10
+        - Windows (other)
+        - Linux
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is
+      placeholder: When I do X, Y happens instead of Z...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Detailed steps to reliably reproduce the issue (optional)
+      value: |
+        1. Do this
+        2. Click on that
+        3. See the error
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen? (optional)
+    validations:
+      required: false
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened? Include any error messages exactly as they appear
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Video
+      description: If applicable, drag and drop screenshots or a short screen recording here to help explain the problem
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Anything else that might help — map file involved, recent changes, hardware notes, etc
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmations
+      options:
+        - label: I am using the latest release of the editor
+          required: true
+        - label: I have searched existing issues and this is not a duplicate
+          required: true
