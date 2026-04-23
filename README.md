@@ -4,13 +4,14 @@
   <img width="360" height="360" alt="State of Command logo" src="https://github.com/user-attachments/assets/749a9d4e-2d7a-49b6-bff6-1b2c6caac86e" />
 </p>
 
-Official repository for the **State of Command Editor**, a map editing tool for the grand strategy game State of Command
+Official repository for the **State of Command Editor**, A map editing tool for the modern grand strategy game State of Command
 
 > The source code is not and will not be published here
 
-[![Wishlist on Steam](https://img.shields.io/badge/Wishlist_on-Steam-171a21?style=for-the-badge&logo=steam&logoColor=66c0f4)](https://store.steampowered.com/app/4465990/State_of_Command/)
+[![Wishlist on Steam](https://img.shields.io/badge/Wishlist_on_Steam-171a21?style=for-the-badge&logo=steam&logoColor=66c0f4)](https://store.steampowered.com/app/4465990/State_of_Command/)
+[![Join our Discord](https://img.shields.io/badge/Join_our_discord-23272A?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/invite/CvqWhgYpvx)
+[![Support the Developer](https://img.shields.io/badge/Support_the_Developer-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=FFFFFF)](https://buymeacoffee.com/laythissam)
 [![Editor Downloads](https://img.shields.io/github/downloads/YoungLionIV/State-of-Command-Editor/total?style=for-the-badge&label=Downloads&color=2ea44f)](https://github.com/YoungLionIV/State-of-Command-Editor/releases)
-[![Join our Discord](https://img.shields.io/badge/Discord-Join_Server-23272A?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/invite/CvqWhgYpvx)
 
 ---
 
@@ -47,4 +48,4 @@ In summary, you may not:
 - Sell, rent, or charge any fee for it
 - Reverse engineer, decompile, or modify the binaries
 
-See [`LICENSE`](LICENSE) for more details
+See the [`LICENSE`](LICENSE) file for more details

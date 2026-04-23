@@ -68,7 +68,7 @@ body:
       label: Actual Behavior
       description: What actually happened? Include any error messages exactly as they appear
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: screenshots
